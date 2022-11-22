@@ -1,0 +1,17 @@
+.table-row-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-weight: bold;
+  width: 90vw;
+}
+.data-heading {
+  width: 50%;
+  border: 1px solid black;
+  text-align: center;
+}
+.table {
+  margin-left: 5vw;
+  margin-right: 5vw;
+  margin-top: 20px;
+}
